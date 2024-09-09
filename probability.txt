@@ -1,0 +1,28 @@
+Probability = Possibility
+Probability is the branch of mathematics concerning events and numerical descriptions of how likely they are to occur. The probability of an event is a number between 0 and 1; the larger the probability, the more likely an event is to occur. [Wiki]
+<b> Probability Theory </b> - Analyses the random occurance of an event
+1. Theoretical Probability
+P(A) = (Number of outcomes favourable to Event A) / (Number of all possible outcomes)
+2. Experimental Probability
+P(E) = (Number of times event A happened) / (Total number of trials)
+<b> Terms used in Probability Theory: </b>
+1. Random Experiment
+2. Sample Space
+3. Event
+4. Random Variable
+<b> odds ratio </b>
+<b> Dependent and Independent Events </b>
+<b> Mutually exclusive Events </b>
+Addition Rule for Mutually Exclusive and Not Mutually Exclusive
+Joint Probability
+Conditional Probability
+Bayes Theorem
+Introduction to Probability Distribution
+Discrete Uniform Distribution
+Used Cases of Discrete Uniform Distribution :-
+The Discrete Uniform Distribution is used in data science in a variety of contexts, such as :
+Random Sampling
+Data Visualisation
+Hypothesis Testing
+
+Binomial Distribution
