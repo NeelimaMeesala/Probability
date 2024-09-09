@@ -10,7 +10,7 @@ P(E) = (Number of times event A happened) / (Total number of trials)
 2. Sample Space
 3. Event
 4. Random Variable
-<b> odds ratio </b>
+** odds ratio **
 <b> Dependent and Independent Events </b>
 <b> Mutually exclusive Events </b>
 Addition Rule for Mutually Exclusive and Not Mutually Exclusive
